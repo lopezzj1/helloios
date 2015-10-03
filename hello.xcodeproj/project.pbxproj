@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		84277F4A1BBF92BE00B02C62 /* hello.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hello.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84277F4A1BBF92BE00B02C62 /* Hello.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hello.temp_caseinsensitive_rename.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84277F4D1BBF92BE00B02C62 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84277F4F1BBF92BE00B02C62 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		84277F521BBF92BE00B02C62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		84277F541BBF92BE00B02C62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84277F571BBF92BE00B02C62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84277F591BBF92BE00B02C62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		84277F5E1BBF92BE00B02C62 /* helloTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = helloTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		84277F5E1BBF92BE00B02C62 /* Hello.temp_caseinsensitive_rename.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hello.temp_caseinsensitive_rename.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84277F621BBF92BE00B02C62 /* helloTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helloTests.swift; sourceTree = "<group>"; };
 		84277F641BBF92BE00B02C62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		84277F691BBF92BE00B02C62 /* helloUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = helloUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		84277F691BBF92BE00B02C62 /* Hello.temp_caseinsensitive_rename.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hello.temp_caseinsensitive_rename.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84277F6D1BBF92BE00B02C62 /* helloUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helloUITests.swift; sourceTree = "<group>"; };
 		84277F6F1BBF92BE00B02C62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,9 +87,9 @@
 		84277F4B1BBF92BE00B02C62 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				84277F4A1BBF92BE00B02C62 /* hello.app */,
-				84277F5E1BBF92BE00B02C62 /* helloTests.xctest */,
-				84277F691BBF92BE00B02C62 /* helloUITests.xctest */,
+				84277F4A1BBF92BE00B02C62 /* Hello.temp_caseinsensitive_rename.app */,
+				84277F5E1BBF92BE00B02C62 /* Hello.temp_caseinsensitive_rename.xctest */,
+				84277F691BBF92BE00B02C62 /* Hello.temp_caseinsensitive_rename.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -142,7 +142,7 @@
 			);
 			name = hello;
 			productName = hello;
-			productReference = 84277F4A1BBF92BE00B02C62 /* hello.app */;
+			productReference = 84277F4A1BBF92BE00B02C62 /* Hello.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
 		84277F5D1BBF92BE00B02C62 /* helloTests */ = {
@@ -160,7 +160,7 @@
 			);
 			name = helloTests;
 			productName = helloTests;
-			productReference = 84277F5E1BBF92BE00B02C62 /* helloTests.xctest */;
+			productReference = 84277F5E1BBF92BE00B02C62 /* Hello.temp_caseinsensitive_rename.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		84277F681BBF92BE00B02C62 /* helloUITests */ = {
@@ -178,7 +178,7 @@
 			);
 			name = helloUITests;
 			productName = helloUITests;
-			productReference = 84277F691BBF92BE00B02C62 /* helloUITests.xctest */;
+			productReference = 84277F691BBF92BE00B02C62 /* Hello.temp_caseinsensitive_rename.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -203,7 +203,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 84277F451BBF92BE00B02C62 /* Build configuration list for PBXProject "hello" */;
+			buildConfigurationList = 84277F451BBF92BE00B02C62 /* Build configuration list for PBXProject "Hello" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -401,7 +401,7 @@
 				INFOPLIST_FILE = hello/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.uw.lopezzj1.hello;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Hello.temp_caseinsensitive_rename;
 			};
 			name = Debug;
 		};
@@ -412,7 +412,7 @@
 				INFOPLIST_FILE = hello/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.uw.lopezzj1.hello;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Hello.temp_caseinsensitive_rename;
 			};
 			name = Release;
 		};
@@ -423,8 +423,8 @@
 				INFOPLIST_FILE = helloTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.uw.lopezzj1.helloTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hello.app/hello";
+				PRODUCT_NAME = Hello.temp_caseinsensitive_rename;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hello.temp_caseinsensitive_rename.app/Hello.temp_caseinsensitive_rename";
 			};
 			name = Debug;
 		};
@@ -435,8 +435,8 @@
 				INFOPLIST_FILE = helloTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.uw.lopezzj1.helloTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hello.app/hello";
+				PRODUCT_NAME = Hello.temp_caseinsensitive_rename;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hello.temp_caseinsensitive_rename.app/Hello.temp_caseinsensitive_rename";
 			};
 			name = Release;
 		};
@@ -446,7 +446,7 @@
 				INFOPLIST_FILE = helloUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.uw.lopezzj1.helloUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Hello.temp_caseinsensitive_rename;
 				TEST_TARGET_NAME = hello;
 				USES_XCTRUNNER = YES;
 			};
@@ -458,7 +458,7 @@
 				INFOPLIST_FILE = helloUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.uw.lopezzj1.helloUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Hello.temp_caseinsensitive_rename;
 				TEST_TARGET_NAME = hello;
 				USES_XCTRUNNER = YES;
 			};
@@ -467,7 +467,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		84277F451BBF92BE00B02C62 /* Build configuration list for PBXProject "hello" */ = {
+		84277F451BBF92BE00B02C62 /* Build configuration list for PBXProject "Hello" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				84277F701BBF92BE00B02C62 /* Debug */,

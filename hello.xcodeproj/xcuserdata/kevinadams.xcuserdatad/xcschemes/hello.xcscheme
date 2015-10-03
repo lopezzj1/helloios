@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84277F491BBF92BE00B02C62"
-               BuildableName = "hello.app"
+               BuildableName = "Hello.temp_caseinsensitive_rename.app"
                BlueprintName = "hello"
-               ReferencedContainer = "container:hello.xcodeproj">
+               ReferencedContainer = "container:Hello.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84277F5D1BBF92BE00B02C62"
-               BuildableName = "helloTests.xctest"
+               BuildableName = "Hello.temp_caseinsensitive_rename.xctest"
                BlueprintName = "helloTests"
-               ReferencedContainer = "container:hello.xcodeproj">
+               ReferencedContainer = "container:Hello.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84277F681BBF92BE00B02C62"
-               BuildableName = "helloUITests.xctest"
+               BuildableName = "Hello.temp_caseinsensitive_rename.xctest"
                BlueprintName = "helloUITests"
-               ReferencedContainer = "container:hello.xcodeproj">
+               ReferencedContainer = "container:Hello.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84277F491BBF92BE00B02C62"
-            BuildableName = "hello.app"
+            BuildableName = "Hello.temp_caseinsensitive_rename.app"
             BlueprintName = "hello"
-            ReferencedContainer = "container:hello.xcodeproj">
+            ReferencedContainer = "container:Hello.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84277F491BBF92BE00B02C62"
-            BuildableName = "hello.app"
+            BuildableName = "Hello.temp_caseinsensitive_rename.app"
             BlueprintName = "hello"
-            ReferencedContainer = "container:hello.xcodeproj">
+            ReferencedContainer = "container:Hello.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84277F491BBF92BE00B02C62"
-            BuildableName = "hello.app"
+            BuildableName = "Hello.temp_caseinsensitive_rename.app"
             BlueprintName = "hello"
-            ReferencedContainer = "container:hello.xcodeproj">
+            ReferencedContainer = "container:Hello.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
