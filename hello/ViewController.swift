@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  hello
 //
-//  Created by Kevin Adams on 10/2/15.
+//  Created by Jill Lopez on 10/2/15.
 //  Copyright © 2015 Jill Lopez. All rights reserved.
 //
 
